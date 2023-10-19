@@ -11,3 +11,6 @@ spring:
       ddl-auto: update
 server:
   port: '8083'
+
+loan:
+  msg: This is Loan microservice for Bank application - Production profile

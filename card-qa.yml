@@ -11,3 +11,6 @@ spring:
       ddl-auto: update
 server:
   port: '8082'
+
+card:
+  msg: This is Card microservice for Bank application - QA profile
