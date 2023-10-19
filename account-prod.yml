@@ -11,3 +11,6 @@ spring:
       ddl-auto: update
 server:
   port: '8081'
+
+account:
+  msg: This is Account microservice for Bank application - Production profile
