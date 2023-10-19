@@ -14,3 +14,4 @@ server:
 
 card:
   msg: This is Card microservice for Bank application - Production profile
+  build-version: 1

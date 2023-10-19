@@ -14,3 +14,5 @@ server:
 
 account:
   msg: This is Account microservice for Bank application - Development profile
+  build-version: 1
+

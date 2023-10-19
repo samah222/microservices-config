@@ -14,3 +14,4 @@ server:
 
 loan:
   msg: This is Loan microservice for Bank application - QA profile
+  build-version: 1
