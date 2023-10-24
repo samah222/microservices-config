@@ -12,6 +12,7 @@ eureka:
     fetchRegistry: false
     serverUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+
 eurekaserver:
   msg: {cipher}acc844f26680ff11dc4b15f3c987d26b702c8364ac6a1a263bec6640c2bb49d64848a822f717536a4f07b0881b76775ba41fee548b8c5b335b0c70552a7753d39df47f64191f118f45185db6d043ffdac60e8e32dd3c8fc7e9c5cd1a5c171ba1
   build-version: 1
