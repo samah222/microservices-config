@@ -32,4 +32,10 @@ To run this project, you need the following tools installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/spring-boot-config-server.git
+   git clone https://github.com/samah222/microservices-config.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd spring-boot-config-server
+   
+ The Config Server will start on port 8085, see the application.properties file.
